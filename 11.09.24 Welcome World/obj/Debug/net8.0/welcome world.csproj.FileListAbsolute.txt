@@ -1,0 +1,14 @@
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\Programming\welcome world\bin\Debug\net8.0\welcome world.exe
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\Programming\welcome world\bin\Debug\net8.0\welcome world.deps.json
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\Programming\welcome world\bin\Debug\net8.0\welcome world.runtimeconfig.json
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\Programming\welcome world\bin\Debug\net8.0\welcome world.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\Programming\welcome world\bin\Debug\net8.0\welcome world.pdb
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\Programming\welcome world\obj\Debug\net8.0\welcome world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\Programming\welcome world\obj\Debug\net8.0\welcome world.AssemblyInfoInputs.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\Programming\welcome world\obj\Debug\net8.0\welcome world.AssemblyInfo.cs
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\Programming\welcome world\obj\Debug\net8.0\welcome world.csproj.CoreCompileInputs.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\Programming\welcome world\obj\Debug\net8.0\welcome world.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\Programming\welcome world\obj\Debug\net8.0\refint\welcome world.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\Programming\welcome world\obj\Debug\net8.0\welcome world.pdb
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\Programming\welcome world\obj\Debug\net8.0\welcome world.genruntimeconfig.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\Programming\welcome world\obj\Debug\net8.0\ref\welcome world.dll

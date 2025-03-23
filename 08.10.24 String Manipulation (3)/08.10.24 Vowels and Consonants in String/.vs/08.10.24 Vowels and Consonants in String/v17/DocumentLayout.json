@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MC166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\08.10.24 String Manipulation (3)\\08.10.24 Vowels and Consonants in String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1DB9B8-8B37-47D0-A69A-6A47D550ECC7}|08.10.24 Vowels and Consonants in String.csproj|c:\\users\\mc166476\\onedrive - hills road sixth form college\\computer science\\cvil programming\\08.10.24 string manipulation (3)\\08.10.24 vowels and consonants in string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1DB9B8-8B37-47D0-A69A-6A47D550ECC7}|08.10.24 Vowels and Consonants in String.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MC166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\08.10.24 String Manipulation (3)\\08.10.24 Vowels and Consonants in String\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MC166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\08.10.24 String Manipulation (3)\\08.10.24 Vowels and Consonants in String\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:12:10.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

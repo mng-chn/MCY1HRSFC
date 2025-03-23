@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\27.11.24 File Handling (AllText vs Stream)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D641789-BC6E-47F4-91B1-94FB7C1E928B}|27.11.24 File Handling (AllText vs Stream).csproj|c:\\users\\mc166476\\onedrive - hills road sixth form college\\computer science\\cvil programming\\27.11.24 file handling (alltext vs stream)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D641789-BC6E-47F4-91B1-94FB7C1E928B}|27.11.24 File Handling (AllText vs Stream).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\27.11.24 File Handling (AllText vs Stream)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\27.11.24 File Handling (AllText vs Stream)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:43:27.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

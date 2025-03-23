@@ -1,0 +1,14 @@
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.10.24 Cinema Tickets\bin\Debug\net8.0\18.10.24 Cinema Tickets.exe
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.10.24 Cinema Tickets\bin\Debug\net8.0\18.10.24 Cinema Tickets.deps.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.10.24 Cinema Tickets\bin\Debug\net8.0\18.10.24 Cinema Tickets.runtimeconfig.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.10.24 Cinema Tickets\bin\Debug\net8.0\18.10.24 Cinema Tickets.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.10.24 Cinema Tickets\bin\Debug\net8.0\18.10.24 Cinema Tickets.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.10.24 Cinema Tickets\obj\Debug\net8.0\18.10.24 Cinema Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.10.24 Cinema Tickets\obj\Debug\net8.0\18.10.24 Cinema Tickets.AssemblyInfoInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.10.24 Cinema Tickets\obj\Debug\net8.0\18.10.24 Cinema Tickets.AssemblyInfo.cs
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.10.24 Cinema Tickets\obj\Debug\net8.0\18.10.24 Cinema Tickets.csproj.CoreCompileInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.10.24 Cinema Tickets\obj\Debug\net8.0\18.10.24 Cinema Tickets.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.10.24 Cinema Tickets\obj\Debug\net8.0\refint\18.10.24 Cinema Tickets.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.10.24 Cinema Tickets\obj\Debug\net8.0\18.10.24 Cinema Tickets.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.10.24 Cinema Tickets\obj\Debug\net8.0\18.10.24 Cinema Tickets.genruntimeconfig.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.10.24 Cinema Tickets\obj\Debug\net8.0\ref\18.10.24 Cinema Tickets.dll

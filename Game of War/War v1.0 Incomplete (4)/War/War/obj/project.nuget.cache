@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VoBQO1uoHdg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\Game of War\\War v1.0 Incomplete (4)\\War\\War\\War.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mc166476\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mc166476\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mc166476\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mc166476\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\25.09.24\bin\Debug\net8.0\25.09.24.exe
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\25.09.24\bin\Debug\net8.0\25.09.24.deps.json
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\25.09.24\bin\Debug\net8.0\25.09.24.runtimeconfig.json
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\25.09.24\bin\Debug\net8.0\25.09.24.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\25.09.24\bin\Debug\net8.0\25.09.24.pdb
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\25.09.24\obj\Debug\net8.0\25.09.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\25.09.24\obj\Debug\net8.0\25.09.24.AssemblyInfoInputs.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\25.09.24\obj\Debug\net8.0\25.09.24.AssemblyInfo.cs
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\25.09.24\obj\Debug\net8.0\25.09.24.csproj.CoreCompileInputs.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\25.09.24\obj\Debug\net8.0\25.09.24.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\25.09.24\obj\Debug\net8.0\refint\25.09.24.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\25.09.24\obj\Debug\net8.0\25.09.24.pdb
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\25.09.24\obj\Debug\net8.0\25.09.24.genruntimeconfig.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\25.09.24\obj\Debug\net8.0\ref\25.09.24.dll

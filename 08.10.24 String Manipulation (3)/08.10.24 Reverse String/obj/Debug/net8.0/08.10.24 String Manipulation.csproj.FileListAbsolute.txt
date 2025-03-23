@@ -1,0 +1,14 @@
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\08.10.24 String Manipulation\bin\Debug\net8.0\08.10.24 String Manipulation.exe
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\08.10.24 String Manipulation\bin\Debug\net8.0\08.10.24 String Manipulation.deps.json
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\08.10.24 String Manipulation\bin\Debug\net8.0\08.10.24 String Manipulation.runtimeconfig.json
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\08.10.24 String Manipulation\bin\Debug\net8.0\08.10.24 String Manipulation.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\08.10.24 String Manipulation\bin\Debug\net8.0\08.10.24 String Manipulation.pdb
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\08.10.24 String Manipulation\obj\Debug\net8.0\08.10.24 String Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\08.10.24 String Manipulation\obj\Debug\net8.0\08.10.24 String Manipulation.AssemblyInfoInputs.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\08.10.24 String Manipulation\obj\Debug\net8.0\08.10.24 String Manipulation.AssemblyInfo.cs
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\08.10.24 String Manipulation\obj\Debug\net8.0\08.10.24 String Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\08.10.24 String Manipulation\obj\Debug\net8.0\08.10.24 String Manipulation.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\08.10.24 String Manipulation\obj\Debug\net8.0\refint\08.10.24 String Manipulation.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\08.10.24 String Manipulation\obj\Debug\net8.0\08.10.24 String Manipulation.pdb
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\08.10.24 String Manipulation\obj\Debug\net8.0\08.10.24 String Manipulation.genruntimeconfig.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\08.10.24 String Manipulation\obj\Debug\net8.0\ref\08.10.24 String Manipulation.dll

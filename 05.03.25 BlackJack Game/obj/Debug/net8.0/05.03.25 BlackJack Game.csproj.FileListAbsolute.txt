@@ -1,0 +1,28 @@
+C:/Users/mc166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/05.03.25 BlackJack Game.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mc166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/05.03.25 BlackJack Game.AssemblyInfoInputs.cache
+C:/Users/mc166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/05.03.25 BlackJack Game.AssemblyInfo.cs
+C:/Users/mc166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/05.03.25 BlackJack Game.csproj.CoreCompileInputs.cache
+C:/Users/mc166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/05.03.25 BlackJack Game/bin/Debug/net8.0/05.03.25 BlackJack Game.exe
+C:/Users/mc166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/05.03.25 BlackJack Game/bin/Debug/net8.0/05.03.25 BlackJack Game.deps.json
+C:/Users/mc166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/05.03.25 BlackJack Game/bin/Debug/net8.0/05.03.25 BlackJack Game.runtimeconfig.json
+C:/Users/mc166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/05.03.25 BlackJack Game/bin/Debug/net8.0/05.03.25 BlackJack Game.dll
+C:/Users/mc166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/05.03.25 BlackJack Game/bin/Debug/net8.0/05.03.25 BlackJack Game.pdb
+C:/Users/mc166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/05.03.25 BlackJack Game.dll
+C:/Users/mc166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/refint/05.03.25 BlackJack Game.dll
+C:/Users/mc166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/05.03.25 BlackJack Game.pdb
+C:/Users/mc166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/05.03.25 BlackJack Game.genruntimeconfig.cache
+C:/Users/mc166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/ref/05.03.25 BlackJack Game.dll
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/05.03.25 BlackJack Game/bin/Debug/net8.0/05.03.25 BlackJack Game
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/05.03.25 BlackJack Game/bin/Debug/net8.0/05.03.25 BlackJack Game.deps.json
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/05.03.25 BlackJack Game/bin/Debug/net8.0/05.03.25 BlackJack Game.runtimeconfig.json
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/05.03.25 BlackJack Game/bin/Debug/net8.0/05.03.25 BlackJack Game.dll
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/05.03.25 BlackJack Game/bin/Debug/net8.0/05.03.25 BlackJack Game.pdb
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/05.03.25 BlackJack Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/05.03.25 BlackJack Game.AssemblyInfoInputs.cache
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/05.03.25 BlackJack Game.AssemblyInfo.cs
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/05.03.25 BlackJack Game.csproj.CoreCompileInputs.cache
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/05.03.25 BlackJack Game.dll
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/refint/05.03.25 BlackJack Game.dll
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/05.03.25 BlackJack Game.pdb
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/05.03.25 BlackJack Game.genruntimeconfig.cache
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/05.03.25 BlackJack Game/obj/Debug/net8.0/ref/05.03.25 BlackJack Game.dll

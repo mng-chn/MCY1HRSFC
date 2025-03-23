@@ -1,0 +1,14 @@
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\16.10.24 Test Marks\bin\Debug\net8.0\16.10.24 Test Marks.exe
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\16.10.24 Test Marks\bin\Debug\net8.0\16.10.24 Test Marks.deps.json
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\16.10.24 Test Marks\bin\Debug\net8.0\16.10.24 Test Marks.runtimeconfig.json
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\16.10.24 Test Marks\bin\Debug\net8.0\16.10.24 Test Marks.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\16.10.24 Test Marks\bin\Debug\net8.0\16.10.24 Test Marks.pdb
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\16.10.24 Test Marks\obj\Debug\net8.0\16.10.24 Test Marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\16.10.24 Test Marks\obj\Debug\net8.0\16.10.24 Test Marks.AssemblyInfoInputs.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\16.10.24 Test Marks\obj\Debug\net8.0\16.10.24 Test Marks.AssemblyInfo.cs
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\16.10.24 Test Marks\obj\Debug\net8.0\16.10.24 Test Marks.csproj.CoreCompileInputs.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\16.10.24 Test Marks\obj\Debug\net8.0\16.10.24 Test Marks.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\16.10.24 Test Marks\obj\Debug\net8.0\refint\16.10.24 Test Marks.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\16.10.24 Test Marks\obj\Debug\net8.0\16.10.24 Test Marks.pdb
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\16.10.24 Test Marks\obj\Debug\net8.0\16.10.24 Test Marks.genruntimeconfig.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\16.10.24 Test Marks\obj\Debug\net8.0\ref\16.10.24 Test Marks.dll

@@ -1,0 +1,4 @@
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Base Converter\obj\Debug\net8.0\06.11.24 Base Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Base Converter\obj\Debug\net8.0\06.11.24 Base Converter.AssemblyInfoInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Base Converter\obj\Debug\net8.0\06.11.24 Base Converter.AssemblyInfo.cs
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Base Converter\obj\Debug\net8.0\06.11.24 Base Converter.csproj.CoreCompileInputs.cache

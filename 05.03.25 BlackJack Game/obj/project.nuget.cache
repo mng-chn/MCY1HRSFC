@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "i+I0D3J9B6I=",
+  "success": true,
+  "projectFilePath": "/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/05.03.25 BlackJack Game/05.03.25 BlackJack Game.csproj",
+  "expectedPackageFiles": [
+    "/Users/grassland/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/grassland/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/grassland/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.14/microsoft.netcore.app.host.osx-arm64.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

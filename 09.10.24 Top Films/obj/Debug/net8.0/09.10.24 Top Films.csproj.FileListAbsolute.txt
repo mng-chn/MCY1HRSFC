@@ -1,0 +1,14 @@
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Top Films\bin\Debug\net8.0\09.10.24 Top Films.exe
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Top Films\bin\Debug\net8.0\09.10.24 Top Films.deps.json
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Top Films\bin\Debug\net8.0\09.10.24 Top Films.runtimeconfig.json
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Top Films\bin\Debug\net8.0\09.10.24 Top Films.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Top Films\bin\Debug\net8.0\09.10.24 Top Films.pdb
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Top Films\obj\Debug\net8.0\09.10.24 Top Films.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Top Films\obj\Debug\net8.0\09.10.24 Top Films.AssemblyInfoInputs.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Top Films\obj\Debug\net8.0\09.10.24 Top Films.AssemblyInfo.cs
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Top Films\obj\Debug\net8.0\09.10.24 Top Films.csproj.CoreCompileInputs.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Top Films\obj\Debug\net8.0\09.10.24 Top Films.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Top Films\obj\Debug\net8.0\refint\09.10.24 Top Films.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Top Films\obj\Debug\net8.0\09.10.24 Top Films.pdb
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Top Films\obj\Debug\net8.0\09.10.24 Top Films.genruntimeconfig.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Top Films\obj\Debug\net8.0\ref\09.10.24 Top Films.dll

@@ -1,0 +1,14 @@
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.11.24 Roman Numerals\bin\Debug\net8.0\04.11.24 Roman Numerals.exe
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.11.24 Roman Numerals\bin\Debug\net8.0\04.11.24 Roman Numerals.deps.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.11.24 Roman Numerals\bin\Debug\net8.0\04.11.24 Roman Numerals.runtimeconfig.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.11.24 Roman Numerals\bin\Debug\net8.0\04.11.24 Roman Numerals.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.11.24 Roman Numerals\bin\Debug\net8.0\04.11.24 Roman Numerals.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.11.24 Roman Numerals\obj\Debug\net8.0\04.11.24 Roman Numerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.11.24 Roman Numerals\obj\Debug\net8.0\04.11.24 Roman Numerals.AssemblyInfoInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.11.24 Roman Numerals\obj\Debug\net8.0\04.11.24 Roman Numerals.AssemblyInfo.cs
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.11.24 Roman Numerals\obj\Debug\net8.0\04.11.24 Roman Numerals.csproj.CoreCompileInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.11.24 Roman Numerals\obj\Debug\net8.0\04.11.24 Roman Numerals.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.11.24 Roman Numerals\obj\Debug\net8.0\refint\04.11.24 Roman Numerals.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.11.24 Roman Numerals\obj\Debug\net8.0\04.11.24 Roman Numerals.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.11.24 Roman Numerals\obj\Debug\net8.0\04.11.24 Roman Numerals.genruntimeconfig.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.11.24 Roman Numerals\obj\Debug\net8.0\ref\04.11.24 Roman Numerals.dll

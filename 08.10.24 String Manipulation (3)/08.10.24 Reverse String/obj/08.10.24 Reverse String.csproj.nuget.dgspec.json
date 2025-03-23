@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MC166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\08.10.24 String Manipulation (3)\\08.10.24 Reverse String\\08.10.24 Reverse String.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MC166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\08.10.24 String Manipulation (3)\\08.10.24 Reverse String\\08.10.24 Reverse String.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MC166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\08.10.24 String Manipulation (3)\\08.10.24 Reverse String\\08.10.24 Reverse String.csproj",
+        "projectName": "08.10.24 Reverse String",
+        "projectPath": "C:\\Users\\MC166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\08.10.24 String Manipulation (3)\\08.10.24 Reverse String\\08.10.24 Reverse String.csproj",
+        "packagesPath": "C:\\Users\\MC166476\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MC166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\08.10.24 String Manipulation (3)\\08.10.24 Reverse String\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MC166476\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

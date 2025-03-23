@@ -1,0 +1,14 @@
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.10.24 Card Game\04.10.24 Card Game\bin\Debug\net8.0\04.10.24 Card Game.exe
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.10.24 Card Game\04.10.24 Card Game\bin\Debug\net8.0\04.10.24 Card Game.deps.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.10.24 Card Game\04.10.24 Card Game\bin\Debug\net8.0\04.10.24 Card Game.runtimeconfig.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.10.24 Card Game\04.10.24 Card Game\bin\Debug\net8.0\04.10.24 Card Game.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.10.24 Card Game\04.10.24 Card Game\bin\Debug\net8.0\04.10.24 Card Game.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.10.24 Card Game\04.10.24 Card Game\obj\Debug\net8.0\04.10.24 Card Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.10.24 Card Game\04.10.24 Card Game\obj\Debug\net8.0\04.10.24 Card Game.AssemblyInfoInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.10.24 Card Game\04.10.24 Card Game\obj\Debug\net8.0\04.10.24 Card Game.AssemblyInfo.cs
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.10.24 Card Game\04.10.24 Card Game\obj\Debug\net8.0\04.10.24 Card Game.csproj.CoreCompileInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.10.24 Card Game\04.10.24 Card Game\obj\Debug\net8.0\04.10.24 Card Game.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.10.24 Card Game\04.10.24 Card Game\obj\Debug\net8.0\refint\04.10.24 Card Game.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.10.24 Card Game\04.10.24 Card Game\obj\Debug\net8.0\04.10.24 Card Game.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.10.24 Card Game\04.10.24 Card Game\obj\Debug\net8.0\04.10.24 Card Game.genruntimeconfig.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\04.10.24 Card Game\04.10.24 Card Game\obj\Debug\net8.0\ref\04.10.24 Card Game.dll

@@ -1,0 +1,4 @@
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\12.03.25 BlackJack Revamp\obj\Debug\net8.0\12.03.25 BlackJack Revamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\12.03.25 BlackJack Revamp\obj\Debug\net8.0\12.03.25 BlackJack Revamp.AssemblyInfoInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\12.03.25 BlackJack Revamp\obj\Debug\net8.0\12.03.25 BlackJack Revamp.AssemblyInfo.cs
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\12.03.25 BlackJack Revamp\obj\Debug\net8.0\12.03.25 BlackJack Revamp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+Player name|| Goals scored||Yellow cards || Red cards || Score
+==============================================================
+mark	|	5	|	1	|	0	|	48
+jason	|	1	|	2	|	0	|	6
+abigail	|	4	|	2	|	1	|	21
+karl	|	1	|	2	|	1	|	11

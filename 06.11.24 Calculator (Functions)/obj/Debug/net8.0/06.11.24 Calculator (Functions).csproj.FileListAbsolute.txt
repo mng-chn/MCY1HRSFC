@@ -1,0 +1,14 @@
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Calculator (Functions)\bin\Debug\net8.0\06.11.24 Calculator (Functions).exe
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Calculator (Functions)\bin\Debug\net8.0\06.11.24 Calculator (Functions).deps.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Calculator (Functions)\bin\Debug\net8.0\06.11.24 Calculator (Functions).runtimeconfig.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Calculator (Functions)\bin\Debug\net8.0\06.11.24 Calculator (Functions).dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Calculator (Functions)\bin\Debug\net8.0\06.11.24 Calculator (Functions).pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Calculator (Functions)\obj\Debug\net8.0\06.11.24 Calculator (Functions).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Calculator (Functions)\obj\Debug\net8.0\06.11.24 Calculator (Functions).AssemblyInfoInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Calculator (Functions)\obj\Debug\net8.0\06.11.24 Calculator (Functions).AssemblyInfo.cs
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Calculator (Functions)\obj\Debug\net8.0\06.11.24 Calculator (Functions).csproj.CoreCompileInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Calculator (Functions)\obj\Debug\net8.0\06.11.24 Calculator (Functions).dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Calculator (Functions)\obj\Debug\net8.0\refint\06.11.24 Calculator (Functions).dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Calculator (Functions)\obj\Debug\net8.0\06.11.24 Calculator (Functions).pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Calculator (Functions)\obj\Debug\net8.0\06.11.24 Calculator (Functions).genruntimeconfig.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\06.11.24 Calculator (Functions)\obj\Debug\net8.0\ref\06.11.24 Calculator (Functions).dll

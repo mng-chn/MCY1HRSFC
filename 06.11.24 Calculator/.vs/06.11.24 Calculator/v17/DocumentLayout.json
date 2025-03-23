@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\06.11.24 Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7156DD-55EB-483A-9AF6-E8C11ECCA72A}|06.11.24 Calculator.csproj|c:\\users\\mc166476\\onedrive - hills road sixth form college\\computer science\\cvil programming\\06.11.24 calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7156DD-55EB-483A-9AF6-E8C11ECCA72A}|06.11.24 Calculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\06.11.24 Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\06.11.24 Calculator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAuwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:45:49.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

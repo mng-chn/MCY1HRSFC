@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>_18._12._24_Structures</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryReader\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>

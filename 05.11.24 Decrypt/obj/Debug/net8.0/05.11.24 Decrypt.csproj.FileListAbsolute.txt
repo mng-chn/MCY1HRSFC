@@ -1,0 +1,14 @@
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.11.24 Decrypt\bin\Debug\net8.0\05.11.24 Decrypt.exe
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.11.24 Decrypt\bin\Debug\net8.0\05.11.24 Decrypt.deps.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.11.24 Decrypt\bin\Debug\net8.0\05.11.24 Decrypt.runtimeconfig.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.11.24 Decrypt\bin\Debug\net8.0\05.11.24 Decrypt.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.11.24 Decrypt\bin\Debug\net8.0\05.11.24 Decrypt.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.11.24 Decrypt\obj\Debug\net8.0\05.11.24 Decrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.11.24 Decrypt\obj\Debug\net8.0\05.11.24 Decrypt.AssemblyInfoInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.11.24 Decrypt\obj\Debug\net8.0\05.11.24 Decrypt.AssemblyInfo.cs
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.11.24 Decrypt\obj\Debug\net8.0\05.11.24 Decrypt.csproj.CoreCompileInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.11.24 Decrypt\obj\Debug\net8.0\05.11.24 Decrypt.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.11.24 Decrypt\obj\Debug\net8.0\refint\05.11.24 Decrypt.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.11.24 Decrypt\obj\Debug\net8.0\05.11.24 Decrypt.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.11.24 Decrypt\obj\Debug\net8.0\05.11.24 Decrypt.genruntimeconfig.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.11.24 Decrypt\obj\Debug\net8.0\ref\05.11.24 Decrypt.dll

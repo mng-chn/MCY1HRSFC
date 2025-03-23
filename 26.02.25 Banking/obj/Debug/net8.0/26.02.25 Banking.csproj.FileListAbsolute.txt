@@ -1,0 +1,14 @@
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\26.02.25 Banking\obj\Debug\net8.0\26.02.25 Banking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\26.02.25 Banking\obj\Debug\net8.0\26.02.25 Banking.AssemblyInfoInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\26.02.25 Banking\obj\Debug\net8.0\26.02.25 Banking.AssemblyInfo.cs
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\26.02.25 Banking\obj\Debug\net8.0\26.02.25 Banking.csproj.CoreCompileInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\26.02.25 Banking\bin\Debug\net8.0\26.02.25 Banking.exe
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\26.02.25 Banking\bin\Debug\net8.0\26.02.25 Banking.deps.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\26.02.25 Banking\bin\Debug\net8.0\26.02.25 Banking.runtimeconfig.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\26.02.25 Banking\bin\Debug\net8.0\26.02.25 Banking.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\26.02.25 Banking\bin\Debug\net8.0\26.02.25 Banking.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\26.02.25 Banking\obj\Debug\net8.0\26.02.25 Banking.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\26.02.25 Banking\obj\Debug\net8.0\refint\26.02.25 Banking.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\26.02.25 Banking\obj\Debug\net8.0\26.02.25 Banking.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\26.02.25 Banking\obj\Debug\net8.0\26.02.25 Banking.genruntimeconfig.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\26.02.25 Banking\obj\Debug\net8.0\ref\26.02.25 Banking.dll

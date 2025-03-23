@@ -1,0 +1,14 @@
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\28.11.24 Fantasy Football\bin\Debug\net8.0\28.11.24 Fantasy Football.exe
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\28.11.24 Fantasy Football\bin\Debug\net8.0\28.11.24 Fantasy Football.deps.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\28.11.24 Fantasy Football\bin\Debug\net8.0\28.11.24 Fantasy Football.runtimeconfig.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\28.11.24 Fantasy Football\bin\Debug\net8.0\28.11.24 Fantasy Football.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\28.11.24 Fantasy Football\bin\Debug\net8.0\28.11.24 Fantasy Football.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\28.11.24 Fantasy Football\obj\Debug\net8.0\28.11.24 Fantasy Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\28.11.24 Fantasy Football\obj\Debug\net8.0\28.11.24 Fantasy Football.AssemblyInfoInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\28.11.24 Fantasy Football\obj\Debug\net8.0\28.11.24 Fantasy Football.AssemblyInfo.cs
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\28.11.24 Fantasy Football\obj\Debug\net8.0\28.11.24 Fantasy Football.csproj.CoreCompileInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\28.11.24 Fantasy Football\obj\Debug\net8.0\28.11.24 Fantasy Football.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\28.11.24 Fantasy Football\obj\Debug\net8.0\refint\28.11.24 Fantasy Football.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\28.11.24 Fantasy Football\obj\Debug\net8.0\28.11.24 Fantasy Football.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\28.11.24 Fantasy Football\obj\Debug\net8.0\28.11.24 Fantasy Football.genruntimeconfig.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\28.11.24 Fantasy Football\obj\Debug\net8.0\ref\28.11.24 Fantasy Football.dll

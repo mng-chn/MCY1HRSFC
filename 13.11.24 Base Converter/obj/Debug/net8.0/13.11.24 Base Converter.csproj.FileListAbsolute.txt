@@ -1,0 +1,14 @@
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\13.11.24 Base Converter\obj\Debug\net8.0\13.11.24 Base Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\13.11.24 Base Converter\obj\Debug\net8.0\13.11.24 Base Converter.AssemblyInfoInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\13.11.24 Base Converter\obj\Debug\net8.0\13.11.24 Base Converter.AssemblyInfo.cs
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\13.11.24 Base Converter\obj\Debug\net8.0\13.11.24 Base Converter.csproj.CoreCompileInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\13.11.24 Base Converter\bin\Debug\net8.0\13.11.24 Base Converter.exe
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\13.11.24 Base Converter\bin\Debug\net8.0\13.11.24 Base Converter.deps.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\13.11.24 Base Converter\bin\Debug\net8.0\13.11.24 Base Converter.runtimeconfig.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\13.11.24 Base Converter\bin\Debug\net8.0\13.11.24 Base Converter.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\13.11.24 Base Converter\bin\Debug\net8.0\13.11.24 Base Converter.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\13.11.24 Base Converter\obj\Debug\net8.0\13.11.24 Base Converter.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\13.11.24 Base Converter\obj\Debug\net8.0\refint\13.11.24 Base Converter.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\13.11.24 Base Converter\obj\Debug\net8.0\13.11.24 Base Converter.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\13.11.24 Base Converter\obj\Debug\net8.0\13.11.24 Base Converter.genruntimeconfig.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\13.11.24 Base Converter\obj\Debug\net8.0\ref\13.11.24 Base Converter.dll

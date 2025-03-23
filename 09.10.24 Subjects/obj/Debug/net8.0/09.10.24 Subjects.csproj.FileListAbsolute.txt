@@ -1,0 +1,14 @@
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Subjects\bin\Debug\net8.0\09.10.24 Subjects.exe
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Subjects\bin\Debug\net8.0\09.10.24 Subjects.deps.json
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Subjects\bin\Debug\net8.0\09.10.24 Subjects.runtimeconfig.json
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Subjects\bin\Debug\net8.0\09.10.24 Subjects.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Subjects\bin\Debug\net8.0\09.10.24 Subjects.pdb
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Subjects\obj\Debug\net8.0\09.10.24 Subjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Subjects\obj\Debug\net8.0\09.10.24 Subjects.AssemblyInfoInputs.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Subjects\obj\Debug\net8.0\09.10.24 Subjects.AssemblyInfo.cs
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Subjects\obj\Debug\net8.0\09.10.24 Subjects.csproj.CoreCompileInputs.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Subjects\obj\Debug\net8.0\09.10.24 Subjects.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Subjects\obj\Debug\net8.0\refint\09.10.24 Subjects.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Subjects\obj\Debug\net8.0\09.10.24 Subjects.pdb
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Subjects\obj\Debug\net8.0\09.10.24 Subjects.genruntimeconfig.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\09.10.24 Subjects\obj\Debug\net8.0\ref\09.10.24 Subjects.dll

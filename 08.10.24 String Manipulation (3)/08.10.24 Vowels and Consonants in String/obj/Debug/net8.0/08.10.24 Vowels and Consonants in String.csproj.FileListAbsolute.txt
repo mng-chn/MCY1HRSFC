@@ -1,0 +1,2 @@
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\08.10.24 String Manipulation\08.10.24 Vowels and Consonants in String\obj\Debug\net8.0\08.10.24 Vowels and Consonants in String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\08.10.24 String Manipulation (3)\08.10.24 Vowels and Consonants in String\obj\Debug\net8.0\08.10.24 Vowels and Consonants in String.GeneratedMSBuildEditorConfig.editorconfig

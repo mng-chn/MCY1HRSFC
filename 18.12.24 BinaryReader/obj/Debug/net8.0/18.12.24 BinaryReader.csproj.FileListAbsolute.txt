@@ -1,0 +1,14 @@
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryReader\bin\Debug\net8.0\18.12.24 BinaryReader.exe
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryReader\bin\Debug\net8.0\18.12.24 BinaryReader.deps.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryReader\bin\Debug\net8.0\18.12.24 BinaryReader.runtimeconfig.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryReader\bin\Debug\net8.0\18.12.24 BinaryReader.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryReader\bin\Debug\net8.0\18.12.24 BinaryReader.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryReader\obj\Debug\net8.0\18.12.24 BinaryReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryReader\obj\Debug\net8.0\18.12.24 BinaryReader.AssemblyInfoInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryReader\obj\Debug\net8.0\18.12.24 BinaryReader.AssemblyInfo.cs
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryReader\obj\Debug\net8.0\18.12.24 BinaryReader.csproj.CoreCompileInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryReader\obj\Debug\net8.0\18.12.24 BinaryReader.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryReader\obj\Debug\net8.0\refint\18.12.24 BinaryReader.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryReader\obj\Debug\net8.0\18.12.24 BinaryReader.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryReader\obj\Debug\net8.0\18.12.24 BinaryReader.genruntimeconfig.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryReader\obj\Debug\net8.0\ref\18.12.24 BinaryReader.dll

@@ -1,0 +1,14 @@
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\15.01.25 Die Project\bin\Debug\net8.0\15.01.25 Die Project.exe
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\15.01.25 Die Project\bin\Debug\net8.0\15.01.25 Die Project.deps.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\15.01.25 Die Project\bin\Debug\net8.0\15.01.25 Die Project.runtimeconfig.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\15.01.25 Die Project\bin\Debug\net8.0\15.01.25 Die Project.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\15.01.25 Die Project\bin\Debug\net8.0\15.01.25 Die Project.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\15.01.25 Die Project\obj\Debug\net8.0\15.01.25 Die Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\15.01.25 Die Project\obj\Debug\net8.0\15.01.25 Die Project.AssemblyInfoInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\15.01.25 Die Project\obj\Debug\net8.0\15.01.25 Die Project.AssemblyInfo.cs
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\15.01.25 Die Project\obj\Debug\net8.0\15.01.25 Die Project.csproj.CoreCompileInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\15.01.25 Die Project\obj\Debug\net8.0\15.01.25 Die Project.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\15.01.25 Die Project\obj\Debug\net8.0\refint\15.01.25 Die Project.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\15.01.25 Die Project\obj\Debug\net8.0\15.01.25 Die Project.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\15.01.25 Die Project\obj\Debug\net8.0\15.01.25 Die Project.genruntimeconfig.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\15.01.25 Die Project\obj\Debug\net8.0\ref\15.01.25 Die Project.dll

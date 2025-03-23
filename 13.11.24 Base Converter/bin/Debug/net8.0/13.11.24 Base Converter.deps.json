@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "13.11.24 Base Converter/1.0.0": {
+        "runtime": {
+          "13.11.24 Base Converter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "13.11.24 Base Converter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

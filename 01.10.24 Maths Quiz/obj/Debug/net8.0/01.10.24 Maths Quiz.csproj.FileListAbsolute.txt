@@ -1,0 +1,28 @@
+C:/Users/MC166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/01.10.24 Maths Quiz/bin/Debug/net8.0/01.10.24 Maths Quiz.exe
+C:/Users/MC166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/01.10.24 Maths Quiz/bin/Debug/net8.0/01.10.24 Maths Quiz.deps.json
+C:/Users/MC166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/01.10.24 Maths Quiz/bin/Debug/net8.0/01.10.24 Maths Quiz.runtimeconfig.json
+C:/Users/MC166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/01.10.24 Maths Quiz/bin/Debug/net8.0/01.10.24 Maths Quiz.dll
+C:/Users/MC166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/01.10.24 Maths Quiz/bin/Debug/net8.0/01.10.24 Maths Quiz.pdb
+C:/Users/MC166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/01.10.24 Maths Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/MC166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/01.10.24 Maths Quiz.AssemblyInfoInputs.cache
+C:/Users/MC166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/01.10.24 Maths Quiz.AssemblyInfo.cs
+C:/Users/MC166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/01.10.24 Maths Quiz.csproj.CoreCompileInputs.cache
+C:/Users/MC166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/01.10.24 Maths Quiz.dll
+C:/Users/MC166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/refint/01.10.24 Maths Quiz.dll
+C:/Users/MC166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/01.10.24 Maths Quiz.pdb
+C:/Users/MC166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/01.10.24 Maths Quiz.genruntimeconfig.cache
+C:/Users/MC166476/OneDrive - Hills Road Sixth Form College/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/ref/01.10.24 Maths Quiz.dll
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/01.10.24 Maths Quiz/bin/Debug/net8.0/01.10.24 Maths Quiz
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/01.10.24 Maths Quiz/bin/Debug/net8.0/01.10.24 Maths Quiz.deps.json
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/01.10.24 Maths Quiz/bin/Debug/net8.0/01.10.24 Maths Quiz.runtimeconfig.json
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/01.10.24 Maths Quiz/bin/Debug/net8.0/01.10.24 Maths Quiz.dll
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/01.10.24 Maths Quiz/bin/Debug/net8.0/01.10.24 Maths Quiz.pdb
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/01.10.24 Maths Quiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/01.10.24 Maths Quiz.AssemblyInfoInputs.cache
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/01.10.24 Maths Quiz.AssemblyInfo.cs
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/01.10.24 Maths Quiz.csproj.CoreCompileInputs.cache
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/01.10.24 Maths Quiz.dll
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/refint/01.10.24 Maths Quiz.dll
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/01.10.24 Maths Quiz.pdb
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/01.10.24 Maths Quiz.genruntimeconfig.cache
+/Users/grassland/Downloads/MC166476/MC166476/Computer Science/CVIL Programming/01.10.24 Maths Quiz/obj/Debug/net8.0/ref/01.10.24 Maths Quiz.dll

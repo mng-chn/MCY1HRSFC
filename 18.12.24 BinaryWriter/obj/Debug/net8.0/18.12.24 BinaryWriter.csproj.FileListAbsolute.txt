@@ -1,0 +1,14 @@
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryWriter\bin\Debug\net8.0\18.12.24 BinaryWriter.exe
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryWriter\bin\Debug\net8.0\18.12.24 BinaryWriter.deps.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryWriter\bin\Debug\net8.0\18.12.24 BinaryWriter.runtimeconfig.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryWriter\bin\Debug\net8.0\18.12.24 BinaryWriter.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryWriter\bin\Debug\net8.0\18.12.24 BinaryWriter.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryWriter\obj\Debug\net8.0\18.12.24 BinaryWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryWriter\obj\Debug\net8.0\18.12.24 BinaryWriter.AssemblyInfoInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryWriter\obj\Debug\net8.0\18.12.24 BinaryWriter.AssemblyInfo.cs
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryWriter\obj\Debug\net8.0\18.12.24 BinaryWriter.csproj.CoreCompileInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryWriter\obj\Debug\net8.0\18.12.24 BinaryWriter.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryWriter\obj\Debug\net8.0\refint\18.12.24 BinaryWriter.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryWriter\obj\Debug\net8.0\18.12.24 BinaryWriter.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryWriter\obj\Debug\net8.0\18.12.24 BinaryWriter.genruntimeconfig.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\18.12.24 BinaryWriter\obj\Debug\net8.0\ref\18.12.24 BinaryWriter.dll

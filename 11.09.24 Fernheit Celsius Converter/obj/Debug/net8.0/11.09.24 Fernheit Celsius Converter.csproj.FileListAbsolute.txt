@@ -1,0 +1,14 @@
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\11.09.24 Fernheit Celsius Converter\bin\Debug\net8.0\11.09.24 Fernheit Celsius Converter.exe
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\11.09.24 Fernheit Celsius Converter\bin\Debug\net8.0\11.09.24 Fernheit Celsius Converter.deps.json
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\11.09.24 Fernheit Celsius Converter\bin\Debug\net8.0\11.09.24 Fernheit Celsius Converter.runtimeconfig.json
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\11.09.24 Fernheit Celsius Converter\bin\Debug\net8.0\11.09.24 Fernheit Celsius Converter.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\11.09.24 Fernheit Celsius Converter\bin\Debug\net8.0\11.09.24 Fernheit Celsius Converter.pdb
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\11.09.24 Fernheit Celsius Converter\obj\Debug\net8.0\11.09.24 Fernheit Celsius Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\11.09.24 Fernheit Celsius Converter\obj\Debug\net8.0\11.09.24 Fernheit Celsius Converter.AssemblyInfoInputs.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\11.09.24 Fernheit Celsius Converter\obj\Debug\net8.0\11.09.24 Fernheit Celsius Converter.AssemblyInfo.cs
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\11.09.24 Fernheit Celsius Converter\obj\Debug\net8.0\11.09.24 Fernheit Celsius Converter.csproj.CoreCompileInputs.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\11.09.24 Fernheit Celsius Converter\obj\Debug\net8.0\11.09.24 Fernheit Celsius Converter.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\11.09.24 Fernheit Celsius Converter\obj\Debug\net8.0\refint\11.09.24 Fernheit Celsius Converter.dll
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\11.09.24 Fernheit Celsius Converter\obj\Debug\net8.0\11.09.24 Fernheit Celsius Converter.pdb
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\11.09.24 Fernheit Celsius Converter\obj\Debug\net8.0\11.09.24 Fernheit Celsius Converter.genruntimeconfig.cache
+C:\Users\MC166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\11.09.24 Fernheit Celsius Converter\obj\Debug\net8.0\ref\11.09.24 Fernheit Celsius Converter.dll

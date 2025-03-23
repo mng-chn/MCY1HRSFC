@@ -1,0 +1,14 @@
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.03.25 Shapes and Abstract Classes\bin\Debug\net8.0\05.03.25 Shapes and Abstract Classes.exe
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.03.25 Shapes and Abstract Classes\bin\Debug\net8.0\05.03.25 Shapes and Abstract Classes.deps.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.03.25 Shapes and Abstract Classes\bin\Debug\net8.0\05.03.25 Shapes and Abstract Classes.runtimeconfig.json
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.03.25 Shapes and Abstract Classes\bin\Debug\net8.0\05.03.25 Shapes and Abstract Classes.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.03.25 Shapes and Abstract Classes\bin\Debug\net8.0\05.03.25 Shapes and Abstract Classes.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.03.25 Shapes and Abstract Classes\obj\Debug\net8.0\05.03.25 Shapes and Abstract Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.03.25 Shapes and Abstract Classes\obj\Debug\net8.0\05.03.25 Shapes and Abstract Classes.AssemblyInfoInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.03.25 Shapes and Abstract Classes\obj\Debug\net8.0\05.03.25 Shapes and Abstract Classes.AssemblyInfo.cs
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.03.25 Shapes and Abstract Classes\obj\Debug\net8.0\05.03.25 Shapes and Abstract Classes.csproj.CoreCompileInputs.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.03.25 Shapes and Abstract Classes\obj\Debug\net8.0\05.03.25 Shapes and Abstract Classes.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.03.25 Shapes and Abstract Classes\obj\Debug\net8.0\refint\05.03.25 Shapes and Abstract Classes.dll
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.03.25 Shapes and Abstract Classes\obj\Debug\net8.0\05.03.25 Shapes and Abstract Classes.pdb
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.03.25 Shapes and Abstract Classes\obj\Debug\net8.0\05.03.25 Shapes and Abstract Classes.genruntimeconfig.cache
+C:\Users\mc166476\OneDrive - Hills Road Sixth Form College\Computer Science\CVIL Programming\05.03.25 Shapes and Abstract Classes\obj\Debug\net8.0\ref\05.03.25 Shapes and Abstract Classes.dll

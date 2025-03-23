@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\05.03.25 Card Game and Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7616D024-C2A0-425F-9B92-AE85732FF5B8}|05.03.25 Card Game and Polymorphism.csproj|c:\\users\\mc166476\\onedrive - hills road sixth form college\\computer science\\cvil programming\\05.03.25 card game and polymorphism\\blackjackhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7616D024-C2A0-425F-9B92-AE85732FF5B8}|05.03.25 Card Game and Polymorphism.csproj|solutionrelative:blackjackhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7616D024-C2A0-425F-9B92-AE85732FF5B8}|05.03.25 Card Game and Polymorphism.csproj|c:\\users\\mc166476\\onedrive - hills road sixth form college\\computer science\\cvil programming\\05.03.25 card game and polymorphism\\scoringhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7616D024-C2A0-425F-9B92-AE85732FF5B8}|05.03.25 Card Game and Polymorphism.csproj|solutionrelative:scoringhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7616D024-C2A0-425F-9B92-AE85732FF5B8}|05.03.25 Card Game and Polymorphism.csproj|c:\\users\\mc166476\\onedrive - hills road sixth form college\\computer science\\cvil programming\\05.03.25 card game and polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7616D024-C2A0-425F-9B92-AE85732FF5B8}|05.03.25 Card Game and Polymorphism.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7616D024-C2A0-425F-9B92-AE85732FF5B8}|05.03.25 Card Game and Polymorphism.csproj|c:\\users\\mc166476\\onedrive - hills road sixth form college\\computer science\\cvil programming\\05.03.25 card game and polymorphism\\pokerhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7616D024-C2A0-425F-9B92-AE85732FF5B8}|05.03.25 Card Game and Polymorphism.csproj|solutionrelative:pokerhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7616D024-C2A0-425F-9B92-AE85732FF5B8}|05.03.25 Card Game and Polymorphism.csproj|c:\\users\\mc166476\\onedrive - hills road sixth form college\\computer science\\cvil programming\\05.03.25 card game and polymorphism\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7616D024-C2A0-425F-9B92-AE85732FF5B8}|05.03.25 Card Game and Polymorphism.csproj|solutionrelative:hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7616D024-C2A0-425F-9B92-AE85732FF5B8}|05.03.25 Card Game and Polymorphism.csproj|c:\\users\\mc166476\\onedrive - hills road sixth form college\\computer science\\cvil programming\\05.03.25 card game and polymorphism\\bridgehand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7616D024-C2A0-425F-9B92-AE85732FF5B8}|05.03.25 Card Game and Polymorphism.csproj|solutionrelative:bridgehand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hand.cs",
+              "DocumentMoniker": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\05.03.25 Card Game and Polymorphism\\Hand.cs",
+              "RelativeDocumentMoniker": "Hand.cs",
+              "ToolTip": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\05.03.25 Card Game and Polymorphism\\Hand.cs",
+              "RelativeToolTip": "Hand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:19:14.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BridgeHand.cs",
+              "DocumentMoniker": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\05.03.25 Card Game and Polymorphism\\BridgeHand.cs",
+              "RelativeDocumentMoniker": "BridgeHand.cs",
+              "ToolTip": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\05.03.25 Card Game and Polymorphism\\BridgeHand.cs",
+              "RelativeToolTip": "BridgeHand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:51:27.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokerHand.cs",
+              "DocumentMoniker": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\05.03.25 Card Game and Polymorphism\\PokerHand.cs",
+              "RelativeDocumentMoniker": "PokerHand.cs",
+              "ToolTip": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\05.03.25 Card Game and Polymorphism\\PokerHand.cs",
+              "RelativeToolTip": "PokerHand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:51:19.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlackJackHand.cs",
+              "DocumentMoniker": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\05.03.25 Card Game and Polymorphism\\BlackJackHand.cs",
+              "RelativeDocumentMoniker": "BlackJackHand.cs",
+              "ToolTip": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\05.03.25 Card Game and Polymorphism\\BlackJackHand.cs",
+              "RelativeToolTip": "BlackJackHand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:51:09.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoringHand.cs",
+              "DocumentMoniker": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\05.03.25 Card Game and Polymorphism\\ScoringHand.cs",
+              "RelativeDocumentMoniker": "ScoringHand.cs",
+              "ToolTip": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\05.03.25 Card Game and Polymorphism\\ScoringHand.cs",
+              "RelativeToolTip": "ScoringHand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:50:59.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\05.03.25 Card Game and Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mc166476\\OneDrive - Hills Road Sixth Form College\\Computer Science\\CVIL Programming\\05.03.25 Card Game and Polymorphism\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:46:47.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
